@@ -222,7 +222,7 @@ export default function Home() {
                                 <section className="section3">
                                     <div className="items-center">
                                         <div className="text-2xl font-semibold leading-relaxed dark:text-slate-200 font-def">
-                                            3 page comment (우리 서비스 3 step 인지 시키기!)
+                                            We are the DAO defending NFT prices.
                                         </div>
                                     </div>
                                 </section>
